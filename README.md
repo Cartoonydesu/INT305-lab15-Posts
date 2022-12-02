@@ -1,5 +1,8 @@
 # lab15_posts
 
+- Assignment in the subject 'INT305' with Aj.Sanit
+- This assignment build using vue-project with firebase database using 3 collection and multiple document
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
